@@ -9,7 +9,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
-    "hbs": "^4.2.0"
+    "hbs": "^4.2.0",
+    "webdriverio": "^7.19.3"
   },
   "repository": {
     "type": "git",
